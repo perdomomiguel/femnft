@@ -4,11 +4,20 @@ body {
 
 .menu {
     margin: auto;
-    width:50%;
+    width:30%;
     margin-top: 10%;
     margin-bottom: 10%;
     background-color:#101b61;
     color: lightgrey;
 }
+
+.cubo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding: 1em;
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
