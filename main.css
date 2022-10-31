@@ -1,0 +1,14 @@
+body {
+    background-color:#070c2e;
+}
+
+.menu {
+    margin: auto;
+    width:50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    background-color:#101b61;
+    color: lightgrey;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
